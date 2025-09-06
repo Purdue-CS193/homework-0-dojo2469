@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# dojo2469(Mustafa Ahmed) First CS193 Homework
+
+- I like coding the coding in CS 193
+- I like the CS 193 classroom that we use
+- I like how CS 193 has minimal homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
